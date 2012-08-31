@@ -1,6 +1,6 @@
 .PHONY: all build tests test serve clean
 
-COFFEE:=./node_modules/.bin/coffee
+COFFEE:=coffee
 
 all: sockjs.js
 
